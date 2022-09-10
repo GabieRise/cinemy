@@ -8,7 +8,6 @@ IMDB makes their raw data available. Unfortunately, the data is divided into man
 
 The following text files were downloaded and used:
 
-business.list. Total budget
 genres.list. Genres that a movie belongs to (eg. comedy and action)
 movies.list. Master list of all movie titles with year of production.
 mpaa-ratings-reasons.list. MPAA ratings.
