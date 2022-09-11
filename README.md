@@ -25,3 +25,4 @@ r1-10. Distribution of votes for each rating, to mid point of nearest decile: 0 
 mpaa. MPAA rating.
 # Genre
 action, animation, comedy, drama, documentary, romance, short. Binary variables representing if movie was classified as belonging to that genre.©
+Check it out and see
